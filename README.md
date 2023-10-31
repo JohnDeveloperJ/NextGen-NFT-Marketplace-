@@ -1,4 +1,4 @@
- NextGen NFT Marketplace GitHub Repository
+ NextGen NFT Marketplace 
 
 This README provides an overview and guidelines for contributors and users of the NextGen NFT Marketplace project. This project is aimed at developing a state-of-the-art marketplace for NFTs, focusing on user experience, security, and seamless blockchain integration.
 
